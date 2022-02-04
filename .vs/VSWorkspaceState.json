@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\shopapp.business\\Abstract",
+    "\\shopapp.business\\Concrete",
+    "\\shopapp.webui",
+    "\\shopapp.webui\\Controllers"
+  ],
+  "SelectedNode": "\\shopapp.webui\\Controllers\\AdminController.cs",
+  "PreviewInSolutionExplorer": false
+}

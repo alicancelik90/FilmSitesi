@@ -1,0 +1,88 @@
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.exe
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.deps.json
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.runtimeconfig.json
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.dll
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.pdb
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\staticwebassets\MVC-Film Örnek Uygulama.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\staticwebassets\MVC-Film Örnek Uygulama.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.dll
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.pdb
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.Views.dll
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.Views.pdb
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Anasayfa\Ana.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Anasayfa\Hakkimizda.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Ana.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Detay.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Liste.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.Views.pdb
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\_Viewimports.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_film.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noFilm.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_kategoriler.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Kategoriler\Default.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Ekleme.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC-Film Örnek Uygulama\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Duzenle.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.exe
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.deps.json
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.runtimeconfig.json
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.dll
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.pdb
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.Views.dll
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.Views.pdb
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\MVC-Film Örnek Uygulama.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\MVC-Film Örnek Uygulama.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Anasayfa\Ana.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Anasayfa\Hakkimizda.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Ana.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Detay.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Duzenle.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Ekleme.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Liste.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Kategoriler\Default.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_film.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_kategoriler.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noFilm.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_Viewimports.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.Views.pdb
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.dll
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.pdb
+C:\Users\Administrator\Desktop\ShopApp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC-Film Örnek Uygulama.csproj.CopyComplete

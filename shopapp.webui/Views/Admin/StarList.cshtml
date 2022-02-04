@@ -1,0 +1,38 @@
+@model StarModel
+
+@{
+    var stars = Model.Stars;
+    
+}
+
+@* @{
+    Layout = null;
+}
+
+bunu dersek bu sayfa layout kullanmaz... 
+Bütün sayfalar i.in başka bir layout oluşturup oınu da kullanabiliriz.*@
+
+
+
+ 
+        
+     
+  <h1 class="mb-4">Film Yıldızları...</h1>   
+  <div class="row">
+ 
+      @foreach (var s in Model.Stars)
+      {
+
+        <div class="col-md-3">
+                
+            @await Html.PartialAsync("_star",s)
+            
+        </div>
+
+      
+        
+      }
+
+  </div>
+
+      

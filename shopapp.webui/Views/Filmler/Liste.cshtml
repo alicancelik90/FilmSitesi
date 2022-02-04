@@ -1,0 +1,44 @@
+@model FilmListeViewModel
+
+@{
+    var filmler = Model.Filmler;
+    
+}
+
+@* @{
+    Layout = null;
+}
+
+bunu dersek bu sayfa layout kullanmaz... 
+Bütün sayfalar i.in başka bir layout oluşturup oınu da kullanabiliriz.*@
+
+@section Kategoriler
+{
+   @await Component.InvokeAsync("Kategoriler")
+}
+
+ 
+        
+        @if (Model.Filmler.Count == 0)
+        {
+        @await Html.PartialAsync("_noFilm")
+        }
+        else
+        {
+            <div class="row">
+
+            @foreach (var f in Model.Filmler)
+            {
+
+            <div class="col-md-4">
+                
+              @await Html.PartialAsync("_film",f)
+            
+            </div>
+        
+            }
+
+            </div>
+
+        }
+       

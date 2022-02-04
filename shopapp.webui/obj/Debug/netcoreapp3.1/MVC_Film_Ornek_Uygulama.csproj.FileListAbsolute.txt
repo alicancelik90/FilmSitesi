@@ -1,0 +1,172 @@
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.exe
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.deps.json
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.runtimeconfig.json
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.pdb
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.Views.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.Views.pdb
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.pdb
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.pdb
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Film_Ornek_Uygulama.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Film_Ornek_Uygulama.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Anasayfa\Ana.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Anasayfa\Hakkimizda.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Ana.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Detay.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Duzenle.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Ekleme.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Liste.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Kategoriler\Default.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_film.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_kategoriler.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noFilm.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_Viewimports.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.Views.pdb
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.dll
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.pdb
+C:\Users\Administrator\Desktop\MVC Film Ornek Uygulama\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Film_Ornek_Uygulama.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Film_Ornek_Uygulama.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Anasayfa\Ana.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Anasayfa\Hakkimizda.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Ana.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Detay.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Duzenle.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Ekleme.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Filmler\Liste.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Kategoriler\Default.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_film.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_kategoriler.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noFilm.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_Viewimports.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.pdb
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.exe
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.deps.json
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.runtimeconfig.json
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.pdb
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.Views.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.Views.pdb
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.dll
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.data.pdb
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\shopapp.entity.pdb
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.Views.pdb
+C:\Users\Administrator\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\MVC_Film_Ornek_Uygulama.csproj.CopyComplete

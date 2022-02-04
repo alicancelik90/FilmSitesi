@@ -1,0 +1,14 @@
+@model List<Kategori>
+
+<div class="list-group">
+    <a href="film listesi"  class="list-group-item list-group-item-action">Tüm Kategoriler</a>
+  
+     @foreach (var item in Model)
+    {
+            <a asp-controller ="filmsitesi" 
+            asp-action ="liste" 
+            asp-route-kategori ="@item.Url" 
+             class="list-group-item list-group-item-action @(ViewBag.SelectedCategory == item.Url?"active":"")">@item.Name</a>
+    } 
+    
+</div>

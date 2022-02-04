@@ -1,0 +1,12 @@
+@model Star
+
+<div class="card mb-3">
+      <img class="card-img-top"   width="30px" height="230px" src="~/img/@Model.Starİmage" alt="">
+      <div class="card-body ">
+         <h5 class="card-title">@Model.FullName</h5>
+         <a asp-controller ="filmsitesi" asp-action ="startheabout" asp-route-id = "@Model.StarId" class="text-muted" >Oyuncu Hakkında...</a>
+        
+      </div>
+    
+
+</div>

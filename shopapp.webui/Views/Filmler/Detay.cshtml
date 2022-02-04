@@ -1,0 +1,31 @@
+ @model Film
+   
+@section Kategoriler
+{
+   @await Component.InvokeAsync("Kategoriler")
+}
+ 
+ <div class="card mb-3">
+    <div class="card-body">
+       <div class="row no-gutters">
+         <div class="col-md-3">
+             <img src="~/img/@Model.ResimUrl" class="card-img">
+         </div>
+
+         <div class="col-md-9">
+
+          
+               <h5 class="card-title ml-2">@Model.Name</h5>
+               <p class="card-text ml-2">@Model.Description</p>
+               <p class="card-text ml-2">
+                   <small class="text-muted">3 gün Önce...</small>
+               </p>
+        
+     
+          
+        </div>
+      </div>
+    </div>
+</div>
+ 
+ 

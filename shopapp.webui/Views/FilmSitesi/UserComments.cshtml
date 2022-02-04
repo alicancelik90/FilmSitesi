@@ -1,0 +1,45 @@
+@model FilmCommentModel
+       
+
+<div class="row">
+    <div class="col md-12">
+        <h1>Kullanıcı Yorumları</h1>
+        <hr>
+       
+        <table class="table table-bordered mt-3">
+            <thead>
+                <tr>
+                    <td style="width: 30px;">Film Puanı</td>
+                    <td style="width: 100px;">Film Yorumu</td>
+                   
+                   
+                </tr>
+            </thead>
+            <tbody>
+        
+             
+
+            
+                      @foreach (var item in Model.Comments)
+                      {
+                          <tr>
+
+                            <td>@item.CommentPoint</td>
+                        
+                            <td>@item.CommentString</td>
+
+                            <td>@item.Film.FilmId</td>
+                         
+                         
+                       
+                         </tr>
+                      }
+          
+                    
+             
+          
+            </tbody>
+
+        </table>
+    </div>
+</div>

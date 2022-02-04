@@ -1,0 +1,58 @@
+@model KategoriListeViewModel
+
+<div class="row">
+    <div class="col md-12">
+        <h1>Admin Kategoriler</h1>
+        <hr>
+        <a class="btn btn-primary btn-sm" href="/admin/kategoriler/ekle">Kategori Ekle</a>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <td style="width: 30px;">Id</td>
+                    <td style="width: 100px;">Resim</td>
+                    <td style="width: 150px;"></td>
+                   
+                   
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Kategoriler.Count>0)
+                {
+                      @foreach (var item in Model.Kategoriler)
+                      {
+                          <tr>
+
+                            <td>@item.KategoriId</td>
+                        
+                            <td>@item.Name</td>
+                         
+                         
+                       
+                            <td>
+                               
+                               <a href="/admin/kategoriler/@item.KategoriId" class="btn btn-primary btn-sm mr-2">Duzenle</a>
+                               <form action="/admin/kategorisil" method="POST" style="display: inline;">
+                                  <input type="hidden" name="kategoriId" value="@item.KategoriId">
+                                  <button type="submit" class="btn btn-danger btn-sm">Sil</button>
+
+                               </form>
+                              
+                               
+                           </td>
+                         </tr>
+                      }
+                }
+                  
+                else
+                {
+                      <div class="alert alert-warning">
+                          <h3>Kategori Yok</h3>
+                      </div>
+                }
+               
+             
+            </tbody>
+
+        </table>
+    </div>
+</div>

@@ -1,0 +1,17 @@
+ @model Film
+ 
+<div class="card mb-3">
+      <img class="card-img-top"  width="30px" height="300px" src="~/img/@Model.ResimUrl" alt="">
+      <div class="card-body">
+         <h5 class="card-title">@Model.Name</h5>
+         <small class="text-muted">
+            @Model.Sene
+         </small>
+        
+      </div>
+      <div class="card-footer text-center">
+            <a asp-controller ="filmsitesi" asp-action ="detay" asp-route-url = "@Model.Url" class="btn btn-primary btn-sm">Detay</a>
+            
+      </div>
+
+</div>

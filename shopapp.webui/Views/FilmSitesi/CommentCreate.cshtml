@@ -1,0 +1,48 @@
+@model CommentModel
+
+<h1 class="h3">Yorum Ekle</h1>
+<hr>
+<div class="row">
+ <div class="col-md-8">
+
+  <form asp-controller="Shop" asp-action="CommentCreate" method="POST">
+
+    <div class="form-group row">
+        <label  asp-for="CommentId" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+           <input  class="form-control" asp-for="CommentId">
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label  asp-for="Film.FilmId" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+           <input  class="form-control" asp-for="Film.FilmId">
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label  asp-for="CommentString" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+           <input  class="form-control" asp-for="CommentString">
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label  asp-for="CommentPoint" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+           <input  class="form-control" asp-for="CommentPoint">
+        </div>
+    </div>
+
+    
+
+      <div class="form-group row">
+      
+        <div class="col-sm-10 offset-sm-2">
+          <button type="submit"  class="btn btn-primary">Yorumu Kaydet</button>
+        </div>
+    </div>
+  </form>
+  </div>
+</div>

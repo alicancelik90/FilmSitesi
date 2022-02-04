@@ -1,0 +1,56 @@
+@model FilmDetayModel
+
+
+          <div class="row">
+            <div class="col-md-3">
+              <img src="~/img/@Model.Film.ResimUrl" class="img-fluid">
+            </div>
+
+            <div class="col-md-9">
+
+
+              <h1 class="mb-3">@Model.Film.Name</h1>
+              <hr>
+              @foreach (var k in Model.Kategoriler)
+              {
+                <a asp-controller="filmsitesi" asp-action="liste" asp-route-kategori="@k.Url" class="btn btn-link p-0 mb-3">@k.Name</a>
+              }
+
+
+              <div class="card-text ml-2">
+                <h4 class="text-primary mb-3">
+                    @Model.Film.Sene
+
+                </h4>
+
+                <hr>
+
+                <p>@Model.Film.Description</p>
+
+                <div class="row mt-4">
+                  <div class="col-md-6">
+                      <a class="btn btn-primary btn-sm" href="/filmsitesi/commentcreate">Yorum Ekle</a>
+                  </div>
+
+                  <div class="col-md-6">
+                      <a href="/filmsitesi/usercomments">Önceki yorumları gör..</a>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+
+        
+             
+           
+
+
+
+    
+  
+          
+         
+          
+
+         

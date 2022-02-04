@@ -1,0 +1,103 @@
+@model KategoriModel
+
+<h1 class="h3">Kategori Duzenle</h1>
+<hr>
+<div class="row">
+  <div class="col-md-4">
+
+    <form asp-controller="Admin" asp-action="KategoriDuzenle" method="POST">
+      <input type="hidden" name="KategoriID" value="@Model.KategoriId">
+      <div class="form-group row">
+        <label  asp-for="Name" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+           <input  class="form-control" asp-for="Name">
+        </div>
+      </div>
+
+      <div class="form-group row">
+        <label  asp-for="Url" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+           <input  class="form-control" asp-for="Url">
+        </div>
+      </div>
+
+    
+      <div class="form-group row">
+      
+        <div class="col-sm-10 offset-sm-2">
+          <button type="submit"  class="btn btn-primary">Kategori Kaydet</button>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="col-md-8">
+       <div class="row">
+         <div class="col md-12">
+     
+           <table class="table table-bordered table-sm">
+              <thead>
+                <tr>
+                    <td style="width: 30px;">Id</td>
+                    <td style="width: 100px;">Resim</td>
+                    <td>Name</td>
+                    <td style="width: 20px;">Sene</td>
+                 
+                    <td style="width: 20px;">Onaylı</td>
+                    <td style="width: 150px;"></td>
+                </tr>
+              </thead>
+               <tbody>
+                @if (Model.Filmler.Count>0)
+                {
+                      @foreach (var item in Model.Filmler)
+                      {
+                          <tr>
+
+                            <td>@item.FilmId</td>
+                            <td><img src="~/img/@item.ResimUrl" width="80"></td>
+                            <td>@item.Name</td>
+                            <td>@item.Sene</td>
+                           
+                              
+                            <td>
+                                    @if (item.Gosterim)
+                                    {
+                                    <i class="fas fa-check"></i>
+                                    }
+                                    else
+                                    {
+                                     <i class="fas fa-times-circle"></i>
+                                    }
+                               
+                            </td>
+                            <td>
+                               
+                               <a href="/admin/filmler/@item.FilmId" class="btn btn-primary btn-sm mr-2">Duzenle</a>
+                               <form action="/admin/kategoridensil" method="POST" style="display: inline;">
+                                  <input type="hidden" name="filmId" value="@item.FilmId">
+                                   <input type="hidden" name="kategoriId" value="@Model.KategoriId">
+                                  <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+
+                               </form>
+                              
+                               
+                           </td>
+                         </tr>
+                      }
+                }
+                  
+                else
+                {
+                      <div class="alert alert-warning">
+                          <h3>Film Yok</h3>
+                      </div>
+                }
+               
+             
+              </tbody>
+
+          </table>
+      </div>
+</div>
+  </div>
+</div>
